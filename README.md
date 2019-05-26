@@ -1,4 +1,4 @@
-# diners_tables_internship
+# diners_tables_project
 
 A new Flutter project.
 
