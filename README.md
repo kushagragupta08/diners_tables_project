@@ -1,4 +1,4 @@
-# diners_tables_project
+# diner_project
 
 A new Flutter project.
 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100464183393",
+    "firebase_url": "https://diner-s-table-internship.firebaseio.com",
+    "project_id": "diner-s-table-internship",
+    "storage_bucket": "diner-s-table-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100464183393:android:0918ac09b6ff7300",
+        "android_client_info": {
+          "package_name": "com.example.diner_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100464183393-ot11r3ogt5ah2ffta8r1i59bceolbf8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTv31VkkqPeoKY7pYKluyIOUwnznC7pe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100464183393-ot11r3ogt5ah2ffta8r1i59bceolbf8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
